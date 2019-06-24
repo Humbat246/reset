@@ -1,0 +1,25 @@
+.student{
+    background-color: black;
+color:white;
+text-align: center;
+padding: 10px;
+font-weight: 700;
+}
+
+.wekil{
+    display: block;
+    float:left;
+    margin-left: 300px;
+    margin-right: 40px;
+}
+
+h2{
+    font-weight: bold;
+    margin: 20px;
+}
+p{
+    float:right;
+}
+.info{
+    float: right;
+}
